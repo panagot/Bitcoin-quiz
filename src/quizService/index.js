@@ -2,8 +2,8 @@ const qBank = [
   {
     question:
       "Πότε δημοσιεύτηκε το Whitepaper από τον Satoshi Nakamoto;  ",
-    answers: ["1 Νοεμβρίου 2009", "6 Σεπτεμβρίου 2011", "31 Οκτωμβρίου 2008", "18 Δεκεμβρίου 2009"],
-    correct: "31 Οκτωμβρίου 2008",
+    answers: ["1 Νοεμβρίου 2009", "6 Σεπτεμβρίου 2011", "31 Οκτωβρίου 2008", "18 Δεκεμβρίου 2009"],
+    correct: "31 Οκτωβρίου 2008",
     questionId: "099099"
   },
   {
@@ -33,8 +33,8 @@ const qBank = [
   },
   {
     question: "Ποιος είναι ο πρώτος χρήστης που έλαβε Bitcoin;",
-    answers: ["Hall Finey", "Roger Ver", "Panagot ", "Charlie Shrem"],
-    correct: "Hall Finey",
+    answers: ["Hal Finney", "Roger Ver", "Panagot ", "Charlie Shrem"],
+    correct: "Hal Finney",
     questionId: "496293"
   },
 
